@@ -9,7 +9,6 @@ Hola mi nombre completo es Antony Barja Ingaruca tengo 24 años, soy egresado de
 Personalmente me considero un amante de la geografía, la estadística espacial y el software libre ,los temas de mi interés son **la geocomputación** y **la ciencia de datos espaciales**, aunque no soy bueno, pero estoy en el proceso.
 Finalmente, en está oportunidad quiero compartiles un poco de mi conocimiento con respecto al manejo de dos software que forman parte del ecosistema  espacial de **FOSS4G**.
 
-
 ## Introducción:  
 
 **R** es un software libre orientado al análisis estadístico de datos que en los últimos años se ha venido nutriendo por diferentes paquetes orientados al análisis espacial de datos, esto debido a la gran dinámica de la comunidad científica y a los desarrolladores de los propios paquetes.
