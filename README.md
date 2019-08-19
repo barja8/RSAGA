@@ -26,7 +26,7 @@ Dar a conocer y familiarizar a los nuevos usuarios la integración de dos herram
  > * Introducción a los tipos de geoprocesamiento y análisis de terreno 
  > * Instalando el paquete RSAGA
  > * Iniciando el entorno de RSAGA
- > * Llamado o activación de las librerias y los módulos de RSAGA 
+ > * Llamado o activación de las librerías y los módulos de RSAGA 
  > * Extracción y evaluación de parámetros morfométricos y topográficos
  > * Preprocesamiento de Imágenes satelitales
  > * Evaluación de índices espectrales
