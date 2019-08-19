@@ -7,7 +7,7 @@ Docente: | Bachiller en Ingeniería Geográfica Antony Marcos Barja Ingaruca
 
 Hola mi nombre completo es Antony Barja Ingaruca tengo 24 años, soy egresado de la Escuela Profesional de Ingeniería Geográfica de la Universidad Nacional Mayor de San Marcos, actualmente me desempeño como analista junior en datos espaciales para la gestión de riesgo de desastres en la [**CRUZ ROJA ALEMANA**](https://media.ifrc.org/ifrc/where-we-work/europe-and-central-asia/german-red-cross/) Y [**CRUZ ROJA PERUANA**](http://www.cruzroja.org.pe/), años anteriores he participado como asistente en SIG y Teledetección para proyectos del Ministerio del Ambiente [(**MINAM**)](http://geoservidor.minam.gob.pe/) y La Autoridad Nacional Forestal y de Fauna Silvestre [(**SERFOR**)](https://sinia.minam.gob.pe/fuente-informacion/servicio-forestal-fauna-silvestre-serfor).
 Personalmente me considero un amante de la geografía, la estadística espacial y el software libre ,los temas de mi interés son **la geocomputación** y **la ciencia de datos espaciales**, aunque no soy bueno, pero estoy en el proceso.
-Finalmente, en está oportunidad quiero compartiles un poco de mi conocimiento con respecto al manejo de dos software que forman parte del ecosistema  espacial de **FOSS4G**.
+Finalmente, en está oportunidad quiero compartiles un poco de mi conocimiento con respecto al manejo de dos softwares que forman parte del ecosistema  espacial de **FOSS4G**.
 
 ## Introducción:  
 
