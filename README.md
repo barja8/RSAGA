@@ -14,10 +14,10 @@ Finalmente, en está oportunidad quiero compartiles un poco de mi conocimiento c
 **R** es un software libre orientado al análisis estadístico de datos que en los últimos años se ha venido nutriendo por diferentes paquetes orientados al análisis espacial de datos, esto debido a la gran dinámica de la comunidad científica y a los desarrolladores de los propios paquetes.
 Asi mismo, **SAGA** (Sistema de Análisis Geocientíficos Automatizados
 ) es un sistema de información geográfica (SIG) de código abierto que fue desarrollada por un pequeño equipo de investigadores del Departamento de Geografía Física, Göttingen, y el Departamento de Geografía Física de Hamburgo
-especializado para el análisis digital del terreno, la integración de estas dos herramientas nos ayudan a trabajar muchos geoprocesamientos de manera sencilla, rápida  y gratuita a traves de lineas de comandos.
+especializado para el análisis digital del terreno, la integración de estas dos herramientas nos ayudan a trabajar muchos geoprocesamientos de manera sencilla, rápida  y gratuita a través de lineas de comandos.
 
 ## Objetivo:
-Dar a conocer y familiarizar a los nuevos usuarios la integración de dos herramientas que forman parte del movimiento del software libre y codigo abierto para el analisis geoespacial (**FOSS4G**) a traves de la linea de comandos.
+Dar a conocer y familiarizar a los nuevos usuarios la integración de dos herramientas que forman parte del movimiento del software libre y código abierto para el análisis geoespacial (**FOSS4G**) a través de la linea de comandos.
 
 ## Temario: 	
  > * Introducción al Paisaje Geoespacial
