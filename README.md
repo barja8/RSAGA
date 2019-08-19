@@ -18,7 +18,7 @@ Asi mismo, **SAGA** (Sistema de Análisis Geocientíficos Automatizados
 especializado para el análisis digital del terreno, la integración de estas dos herramientas nos ayudan a trabajar muchos geoprocesamientos de manera sencilla, rápida  y gratuita a traves de lineas de comandos.
 
 ## Objetivo:
-Dar a conocer y familiarizar a los nuevos usuarios la integración de dos herramientas que forman parte del movimiento del software libre y codigo abierto para el analisis geoespacial (FOSS4G) a traves de la linea de comandos.
+Dar a conocer y familiarizar a los nuevos usuarios la integración de dos herramientas que forman parte del movimiento del software libre y codigo abierto para el analisis geoespacial (**FOSS4G**) a traves de la linea de comandos.
 
 ## Temario: 	
  > * Introducción al Paisaje Geoespacial
