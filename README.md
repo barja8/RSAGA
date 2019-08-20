@@ -20,12 +20,12 @@ especializado para el análisis digital del terreno, la integración de estas do
 Dar a conocer y familiarizar a los nuevos usuarios la integración de dos herramientas que forman parte del movimiento del software libre y código abierto para el análisis geoespacial (**FOSS4G**) a través de la linea de comandos.
 
 ## Temario: 	
- > * Introducción al Paisaje Geoespacial
+ > * Introducción al "ecosistema geoespacial"
  > * Dilema entre los GUI vs CLI
  > * Introducción a R y SAGA
  > * Introducción a los tipos de geoprocesamiento y análisis de terreno 
- > * Instalando el paquete RSAGA
- > * Iniciando el entorno de RSAGA
+ > * RSAGA
+ > * Descargando e iniciando de RSAGA
  > * Llamado o activación de las librerías y los módulos de RSAGA 
  > * Extracción y evaluación de parámetros morfométricos y topográficos
  > * Preprocesamiento de Imágenes satelitales
