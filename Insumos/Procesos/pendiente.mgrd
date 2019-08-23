@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAGA_METADATA>
+  <DATABASE></DATABASE>
+  <SOURCE></SOURCE>
+  <HISTORY saga-version="7.3.0">
+    <TOOL library="ta_morphometry" id="0" name="Slope, Aspect, Curvature">
+      <OPTION type="grid_system" id="PARAMETERS_GRID_SYSTEM" name="Grid system">
+        <CELLSIZE>30</CELLSIZE>
+        <XMIN>319600.6037</XMIN>
+        <XMAX>397690.6037</XMAX>
+        <YMIN>8597630.9236</YMIN>
+        <YMAX>8686550.9236</YMAX>
+      </OPTION>
+      <OPTION type="choice" id="METHOD" name="Method" index="6">9 parameter 2nd order polynom (Zevenbergen &amp; Thorne 1987)</OPTION>
+      <OPTION type="choice" id="UNIT_SLOPE" name="Slope Units" index="1">degree</OPTION>
+      <OPTION type="choice" id="UNIT_ASPECT" name="Aspect Units" index="0">radians</OPTION>
+      <INPUT type="grid" id="ELEVATION" name="Elevation" system="PARAMETERS_GRID_SYSTEM">
+        <TOOL library="io_gdal" id="0" name="Import Raster">
+          <OPTION type="file" id="FILES" name="Files">Insumos/Procesos/cuenca.tif</OPTION>
+          <OPTION type="choice" id="MULTIPLE" name="Multiple Bands Output" index="2">automatic</OPTION>
+          <OPTION type="text" id="SELECTION" name="Select from Multiple Bands"/>
+          <OPTION type="boolean" id="TRANSFORM" name="Transformation">true</OPTION>
+          <OPTION type="choice" id="RESAMPLING" name="Resampling" index="0">Nearest Neighbour</OPTION>
+          <OUTPUT type="grid_list" id="GRIDS" name="Grids">cuenca</OUTPUT>
+        </TOOL>
+      </INPUT>
+      <OUTPUT type="grid" id="SLOPE" name="Slope">Slope</OUTPUT>
+    </TOOL>
+  </HISTORY>
+  <FILE></FILE>
+  <DESCRIPTION></DESCRIPTION>
+  <PROJECTION>
+    <OGC_WKT>PROJCS["WGS 84 / UTM zone 18S",GEOGCS["WGS 84",DATUM["WGS_1984",SPHEROID["WGS 84",6378137,298.257223563,AUTHORITY["EPSG","7030"]],AUTHORITY["EPSG","6326"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","4326"]],PROJECTION["Transverse_Mercator"],PARAMETER["latitude_of_origin",0],PARAMETER["central_meridian",-75],PARAMETER["scale_factor",0.9996],PARAMETER["false_easting",500000],PARAMETER["false_northing",10000000],UNIT["metre",1,AUTHORITY["EPSG","9001"]],AXIS["Easting",EAST],AXIS["Northing",NORTH],AUTHORITY["EPSG","32718"]]</OGC_WKT>
+    <PROJ4>+proj=utm +zone=18 +south +datum=WGS84 +units=m +no_defs </PROJ4>
+    <EPSG>-1</EPSG>
+  </PROJECTION>
+</SAGA_METADATA>
