@@ -28,5 +28,3 @@ Dar a conocer y familiarizar a los nuevos usuarios la integración de dos herram
  > * Descargando e iniciando de RSAGA
  > * Llamado o activación de las librerías y los módulos de RSAGA 
  > * Extracción y evaluación de parámetros morfométricos y topográficos
- > * Preprocesamiento de Imágenes satelitales
- > * Evaluación de índices espectrales
